@@ -97,8 +97,8 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, array(
 ));
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-curl_setopt($ch, CURLOPT_PROXY, "http://proxy.apify.com:8000");
-curl_setopt($ch, CURLOPT_PROXYUSERPWD, "auto:Mwns8Bcz2gnmz7xFWFndBmDdC");
+//curl_setopt($ch, CURLOPT_PROXY, "http://proxy.apify.com:8000");
+//curl_setopt($ch, CURLOPT_PROXYUSERPWD, "auto:Mwns8Bcz2gnmz7xFWFndBmDdC");
 curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
 curl_setopt($ch, CURLOPT_COOKIEFILE, getcwd().'/cookie.txt');
@@ -123,8 +123,8 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, array(
 ));
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-curl_setopt($ch, CURLOPT_PROXY, "http://proxy.apify.com:8000");
-curl_setopt($ch, CURLOPT_PROXYUSERPWD, "auto:Mwns8Bcz2gnmz7xFWFndBmDdC");
+//curl_setopt($ch, CURLOPT_PROXY, "http://proxy.apify.com:8000");
+//curl_setopt($ch, CURLOPT_PROXYUSERPWD, "auto:Mwns8Bcz2gnmz7xFWFndBmDdC");
 curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
 curl_setopt($ch, CURLOPT_COOKIEFILE, getcwd().'/cookie.txt');
@@ -170,8 +170,8 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, array(
 ));
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-curl_setopt($ch, CURLOPT_PROXY, "http://proxy.apify.com:8000");
-curl_setopt($ch, CURLOPT_PROXYUSERPWD, "auto:Mwns8Bcz2gnmz7xFWFndBmDdC");
+//curl_setopt($ch, CURLOPT_PROXY, "http://proxy.apify.com:8000");
+//curl_setopt($ch, CURLOPT_PROXYUSERPWD, "auto:Mwns8Bcz2gnmz7xFWFndBmDdC");
 curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
 curl_setopt($ch, CURLOPT_COOKIEFILE, getcwd().'/cookie.txt');
@@ -194,8 +194,8 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, array(
 ));
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-curl_setopt($ch, CURLOPT_PROXY, "http://proxy.apify.com:8000");
-curl_setopt($ch, CURLOPT_PROXYUSERPWD, "auto:Mwns8Bcz2gnmz7xFWFndBmDdC");
+//curl_setopt($ch, CURLOPT_PROXY, "http://proxy.apify.com:8000");
+//curl_setopt($ch, CURLOPT_PROXYUSERPWD, "auto:Mwns8Bcz2gnmz7xFWFndBmDdC");
 curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
 curl_setopt($ch, CURLOPT_COOKIEFILE, getcwd().'/cookie.txt');
