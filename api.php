@@ -48,12 +48,11 @@ $skeys = array(
 4 => 'sk_live_ySiBmN2TIEHA1o3gJtprjTEh00ysIPAYYV',
 5 => 'sk_live_ZyYsfQbaZlWcqSsflWQDV7pH00v04Isoyi',
 6 => 'sk_live_8RjsfpHrKu5ORSr9s1oVMnic00wZRdUc3D',
-7 => 'sk_live_5mXifgmXe57tU32b1053psNy00NkBFpx6C',
-8 => 'sk_live_gpZMSr8gDkA9VzKexr3H1DhT00AUCRAnBU',
-9 => 'sk_live_5vwlnPA6oHXXnvRNZt2lCzJO00Nadulxc3',
+7 => 'sk_live_gpZMSr8gDkA9VzKexr3H1DhT00AUCRAnBU',
+8 => 'sk_live_5vwlnPA6oHXXnvRNZt2lCzJO00Nadulxc3',
 9 => 'sk_live_AEMR4UFETLVjbAQxrXqzmXO800j3uuyz13',
     ); 
-    $skey = array_rand($skeys);
+    $skey = array($skeys);
     $sk = $skeys[$skey];
 
 $pub = 'pk_live_E0M8014cALnySBMlZSj44duj';
