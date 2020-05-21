@@ -52,7 +52,6 @@ $skeys = array(
 8 => 'sk_live_gpZMSr8gDkA9VzKexr3H1DhT00AUCRAnBU',
 9 => 'sk_live_5vwlnPA6oHXXnvRNZt2lCzJO00Nadulxc3',
 9 => 'sk_live_AEMR4UFETLVjbAQxrXqzmXO800j3uuyz13',
-10 => 'sk_live_e9ufyjH5HW1zuDHA2OPMdw0c00fKWJImyv',
     ); 
     $skey = array_rand($skeys);
     $sk = $skeys[$skey];
