@@ -52,7 +52,7 @@ $skeys = array(
 8 => 'sk_live_5vwlnPA6oHXXnvRNZt2lCzJO00Nadulxc3',
 9 => 'sk_live_AEMR4UFETLVjbAQxrXqzmXO800j3uuyz13',
     ); 
-    $skey = array($skeys);
+    $skey = array_rand($skeys);
     $sk = $skeys[$skey];
 
 $pub = 'pk_live_E0M8014cALnySBMlZSj44duj';
