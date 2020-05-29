@@ -42,7 +42,7 @@ $name = RandomString();
 $lastname = RandomString();
 
 $skeys = array(
-1 => 'sk_live_gpZMSr8gDkA9VzKexr3H1DhT00AUCRAnBU',
+1 => 'sk_live_HxEtz784ieiKTjLh7CQe4mc300OUxSet9Q',
     ); 
     $skey = array_rand($skeys);
     $sk = $skeys[$skey];
